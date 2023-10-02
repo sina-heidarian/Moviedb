@@ -1,0 +1,18 @@
+.Navbar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #032541;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 9%;
+    color: white;
+    text-align: center;
+}
+.Navbar p {
+    padding-top: 40px;
+    color: brown;
+}
+
