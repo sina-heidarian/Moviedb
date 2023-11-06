@@ -19,8 +19,22 @@ const Navbar = () => {
             </ul>
           </div>
           <div className="flex">
-            <ul></ul>
-          </div>
+          <ul>
+            <li>
+              <a className="plus" href="#">
+                <img src={Plus} alt="The Movie Database" />
+              </a>
+            </li>
+            <li>
+              <a></a>
+            </li>
+            <li>
+              <a></a>
+            </li>
+            <li>
+              <a></a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>
