@@ -1,0 +1,35 @@
+.search {
+    position: relative;
+}
+.inner-input {
+    width: 97%;
+    line-height: 46px;
+    font-size: 1.1em;
+    color: rgba(0,0,0,.5);
+    border: 0;
+    border-radius: 30px;
+    height: 46px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    position: absolute;
+}
+
+.inner-input:focus {
+    outline: none;
+}
+
+.outer-input{
+    height: 46px;
+    padding: 10px 26px;
+    border: 0;
+    background: linear-gradient(to right,rgba(30,213,169,1) 0%,rgba(1,180,228,1) 100%);
+    border-radius: 30px;
+    position: relative;
+    color: #fff;
+    left: 90%;
+    font-weight: bold;
+}
+.outer-input:hover {
+    color: #000;
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+.MainSectionOne {
+    height: 42.5%;
+    width: 86.5%;
+    margin-top: 64px;
+    margin-left: 107px;
+    background-image: linear-gradient(to right, rgba(3,37,65,0.8) 0%, rgba(3,37,65,0) 100%), url('../SectionOne/Section1.jpg');
+    background-size: cover;
+}
+.main-content {
+    padding: 2% 0 0 3%;
+}
+
+.Title {
+    color: #FFF;
+    display: grid;
+    margin-bottom: -10%;
+}
+.Title h2 {
+    font-size: 3em;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: -9%;
+}
+.Title h3 {
+    font-size: 2em;
+    font-weight: 600;
+    margin-bottom: 10%;
+}
